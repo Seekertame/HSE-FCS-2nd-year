@@ -1,0 +1,6 @@
+#ifndef OS_IHW_CONFIG_4_6_H
+#define OS_IHW_CONFIG_4_6_H
+
+#define TOTAL_ACCEPTED_LIMIT 5
+
+#endif // OS_IHW_CONFIG_4_6_H
